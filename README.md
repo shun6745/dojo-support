@@ -1,16 +1,16 @@
 # DOJO Support
 
-GitHub Pagesで公開するDOJOのプライバシーポリシーとサポートページです。
+Privacy and support pages for DOJO, published with GitHub Pages.
 
-## 公開前の差し替え
+## Required replacements before publishing
 
-次の文字列を正式な公開情報へ置き換えてください。
+Replace the following placeholders with confirmed public information:
 
-- `REPLACE_LEGAL_ENTITY_NAME`: 運営者・法人の正式名称
-- `REPLACE_SUPPORT_EMAIL`: 公開用サポートメールアドレス
+- `REPLACE_LEGAL_ENTITY_NAME`: the operator's or company's legal name
+- `REPLACE_SUPPORT_EMAIL`: the public support email address
 
-置き換え後、リポジトリの **Settings → Pages** で公開元を選択します。
-リポジトリ名が `dojo-support` の場合、想定URLは次のとおりです。
+After replacing them, select a publishing source under **Settings → Pages**.
+For a repository named `dojo-support`, the expected URLs are:
 
 - `https://shun6745.github.io/dojo-support/privacy/`
 - `https://shun6745.github.io/dojo-support/support/`
