@@ -39,6 +39,11 @@ h2 {
   font-size: 20px;
 }
 
+h3 {
+  margin: 24px 0 8px;
+  font-size: 17px;
+}
+
 p,
 li {
   color: #4e5751;
@@ -47,6 +52,12 @@ li {
 
 ul {
   padding-left: 1.4em;
+}
+
+address {
+  color: #4e5751;
+  font-style: normal;
+  line-height: 1.75;
 }
 
 a {
